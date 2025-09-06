@@ -27,4 +27,3 @@ Features include **light/dark theme toggle**, **mobile-friendly design**, and **
 
 ---
 
-## 📂 Project Structure
